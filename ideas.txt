@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 A place to write down your ideas!
 
+=======
+A place to write down your ideas!
+
+>>>>>>> fe9fc0fbdc25bb9dc5bb4943c7cb28c2909169ce
 icons with people with horse head/masks
